@@ -1,6 +1,6 @@
 # Python-Code-Examples
   Hello my name is Victor, I maintain and contribute to these programs.
-There are seven Python code programs within this repository. Each example is simple and has an objective. To use each of the programs follow any on screen instructions and the results will be provided.<br> 
+There are seven Python code programs within this repository. Each example is simple and has an objective. To use each of the programs paste the program's code into a text editor with Python support, run the program, and follow any on screen instructions and the results will be provided.<br> 
 
   The purpose of the first program is to display "hello world". A basic code to display text in Python.<br>
   
